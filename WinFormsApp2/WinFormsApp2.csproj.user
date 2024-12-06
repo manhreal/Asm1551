@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="q1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="q2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="q3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Q_MultiChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Q_MultiChoice_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Q_OpenEnded.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Q_OpenEnded_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Q_TrueFalse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Q_TrueFalse_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="startGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userPlayGameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,91 @@
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Admin.resources
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Player.resources
+C:\Users\anhkh\OneDrive\Máy tính\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Admin.resources
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Player.resources
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_MultiChoice.resources
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_MultiChoice_Edit.resources
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_OpenEnded.resources
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_OpenEnded_Edit.resources
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_TrueFalse.resources
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\manhr\Downloads\Comp1551-Fall24-Code-main (1)\Comp1551-Fall24-Code-main\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\manhr\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\manhr\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\manhr\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\manhr\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\manhr\source\repos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Admin.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.q1.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.q2.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.q3.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_MultiChoice.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_MultiChoice_Edit.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_OpenEnded.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_OpenEnded_Edit.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_TrueFalse.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_TrueFalse_Edit.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.startGame.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.userPlayGameForm.resources
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\manhr\source\repos\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Admin.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.q1.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.q2.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.q3.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_MultiChoice.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_MultiChoice_Edit.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_OpenEnded.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_OpenEnded_Edit.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_TrueFalse.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Q_TrueFalse_Edit.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.startGame.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.userPlayGameForm.resources
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\manhr\source\repos\Asm\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="q1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="q2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="q3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question_delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question_manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question_Multichoice_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question_Mutilchoice_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question_Open_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question_Open_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question_TF_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Question_TF_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ranking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="startGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userPlayGameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
