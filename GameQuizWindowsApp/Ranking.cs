@@ -56,7 +56,6 @@ namespace GameQuizWindowsApp
             }
         }
 
-        // Hiển thị thứ hạng của người dùng hiện tại
         private void LoadCurrentUserRank()
         {
             try

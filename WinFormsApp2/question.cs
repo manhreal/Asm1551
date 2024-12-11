@@ -4,7 +4,6 @@ using System.Linq;
 
 namespace WinFormsApp2
 {
-    // Lớp cha là lớp abstract để các lớp con kế thừa
     public abstract class Question
     {
         public string QuestionText { get; set; }
@@ -19,14 +18,10 @@ namespace WinFormsApp2
             AnswerText = answerText;
         }
 
-        // Phương thức trừu tượng để kiểm tra câu trả lời
         public abstract bool CheckAnswer(string answer);
-
-        // Phương thức trừu tượng để lấy câu trả lời đúng
         public abstract string GetCorrectAnswer();
     }
 
-    // Câu hỏi trắc nghiệm
     public class MultipleChoiceQuestion : Question
     {
         public string[] Options { get; set; }
@@ -51,7 +46,6 @@ namespace WinFormsApp2
         }
     }
 
-    // Câu hỏi mở
     public class OpenEndedQuestion : Question
     {
         public List<string> CorrectAnswers { get; set; }
@@ -75,7 +69,6 @@ namespace WinFormsApp2
         }
     }
 
-    // Câu hỏi Đúng/Sai
     public class TrueFalseQuestion : Question
     {
         public bool CorrectAnswer { get; set; }

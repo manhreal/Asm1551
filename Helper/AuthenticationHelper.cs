@@ -1,17 +1,12 @@
 ﻿using Helpers;
 using MySql.Data.MySqlClient;
 using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Helper
 {
     public class AuthenticationHelper
     {
-        private string _connectionString = "Server=localhost;Database=dataGameQuiz;Uid=root;Pwd=;";
         public class User
         {
             public int Id { get; set; }
@@ -19,7 +14,6 @@ namespace Helper
             public string Password { get; set; }
             public string Name { get; set; }
             public int Role { get; set; } // 1: Admin, 0: User
-
             public bool HasPlayed { get; set; }
         }
 
@@ -45,47 +39,45 @@ namespace Helper
 
         public bool Register(string username, string password, string displayName)
         {
-            using (var connection = new MySqlConnection(_connectionString))
+
+            string checkUserQuery = "SELECT COUNT(*) FROM User WHERE username = @username";
+            MySqlParameter[] checkUserParams = new MySqlParameter[]
             {
-                connection.Open();
-                // Check if the login name already exists
-                string checkUserQuery = "SELECT COUNT(*) FROM User WHERE username = @username";
-                MySqlCommand checkUserCmd = new MySqlCommand(checkUserQuery, connection);
-                checkUserCmd.Parameters.AddWithValue("@username", username);
+                new MySqlParameter("@username", username)
+            };
 
-                int userCount = Convert.ToInt32(checkUserCmd.ExecuteScalar());
-                if (userCount > 0)
-                {
-                    return false; // Login name already exists
-                }
-                // Perform registration
-                string query = "INSERT INTO User (username, password, name, role, has_played) VALUES (@username, @password, @name, 0, FALSE)";
-                MySqlCommand cmd = new MySqlCommand(query, connection);
-                cmd.Parameters.AddWithValue("@username", username);
-                cmd.Parameters.AddWithValue("@password", password);
-                cmd.Parameters.AddWithValue("@name", displayName);
+            int userCount = Convert.ToInt32(DatabaseHelper.ExecuteScalar(checkUserQuery, checkUserParams));
+            if (userCount > 0)
+            {
+                return false; 
+            }
 
-                try
-                {
-                    cmd.ExecuteNonQuery();
-                    return true; // Success
-                }
-                catch (Exception)
-                {
-                    return false; // Fail
-                }
+            string query = "INSERT INTO User (username, password, name, role, has_played) VALUES (@username, @password, @name, 0, FALSE)";
+            MySqlParameter[] insertParams = new MySqlParameter[]
+            {
+                new MySqlParameter("@username", username),
+                new MySqlParameter("@password", password), 
+                new MySqlParameter("@name", displayName)
+            };
+
+            try
+            {
+                DatabaseHelper.ExecuteNonQuery(query, insertParams);
+                return true; 
+            }
+            catch (Exception)
+            {
+                return false; 
             }
         }
 
         public User Login(string username, string password)
         {
             string query = "SELECT * FROM User WHERE username = @username AND password = @password";
-
-            // Sử dụng DatabaseHelper để thực thi query
             MySqlParameter[] parameters = new MySqlParameter[]
             {
                 new MySqlParameter("@username", username),
-                new MySqlParameter("@password", password)
+                new MySqlParameter("@password", password) 
             };
 
             DataTable result = DatabaseHelper.ExecuteQuery(query, parameters);

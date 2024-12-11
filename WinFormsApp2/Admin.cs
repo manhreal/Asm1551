@@ -241,7 +241,5 @@ namespace WinFormsApp2
                 MessageBox.Show($"An error occurred: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
     }
-
 }

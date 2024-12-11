@@ -24,7 +24,7 @@ namespace WinFormsApp2
 
         private void DisplayQuestion()
         {
-            label_Questionnum.Text = $"Question {currentQuestionIndex + 1}";
+            label_Questionnum.Text = $"Q{currentQuestionIndex + 1} :";
             lblQuestion.Text = currentQuestion.QuestionText;
         }
 
